@@ -1,8 +1,7 @@
 # naveenr1099
 ## Hi there 👋,
 ### my name is Naveen
-![I am GitHub](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
-# My main interest in Machine Learning. I also have basic knowledge of Docker. I am always exciting to learn something new.
+### My main interest in Machine Learning. I also have basic knowledge of Docker. I am always exciting to learn something new.
 Skills: HTML/CSS/JS
 
 * 🔭 I’m currently studing in final semester.
