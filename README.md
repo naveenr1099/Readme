@@ -18,4 +18,4 @@ Skills: HTML/CSS/JS
 *  🎳 **HOBBIES:** I can playing Cricket
 
  
-                                                 ![Profile views](https://gpvc.arturio.dev/naveenr1099) 
+ ![Profile views](https://gpvc.arturio.dev/naveenr1099) 
