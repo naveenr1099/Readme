@@ -1,7 +1,7 @@
 # naveenr1099
 ## Hi there 👋,
 ### my name is Naveen
-![I am GitHub Readme Generator's creator](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![I am GitHub](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 # My main interest in Machine Learning. I also have basic knowledge of Docker. I am always exciting to learn something new.
 Skills: HTML/CSS/JS
 
@@ -11,7 +11,7 @@ Skills: HTML/CSS/JS
 *  🤔 I’m looking for help with  Docker 
 *  💬 Ask me about  OpenCV, HTML or ML. 
 *  📫 How to reach me: Contact me directly on this mail naveenr1099@gmail.com.
-*  📫 How to reach me: Contact me directly on this mail naveenr1099@gmail.com.
+*  😄 Pronouns: I can give one.
 *  🎳 **HOBBIES:** I can playing Cricket
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/naveenr1099) 
