@@ -2,7 +2,7 @@
 ## my name is Naveen R.
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/naveen-r-b28336212/)
-[![instagram image](Readme/instagram.png)](https://www.instagram.com/n.a.v.e.e.n.r/)
+[![instagram image](naveenr1099/Readme/instagram.png)](https://www.instagram.com/n.a.v.e.e.n.r/)
 [<img src='https://instagram.png/npm/simple-icons3@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](http://www.instagram.com/n.a.v.e.e.n.r/)
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/n.a.v.e.e.n.r/) 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/naveenr1099) 
