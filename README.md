@@ -1,6 +1,7 @@
 # naveenr1099
 ## my name is Naveen R.
 
+[<img src="mail.png" width="40" height="40">](https://www.email.com/naveenr1099@gmail.com)
 [<img src="instagram.png" width="40" height="40">](https://www.instagram.com/n.a.v.e.e.n.r/)
 [<img src="ink.png" width="40" height="40">](https://www.linkedin.com/in/https://www.linkedin.com/in/naveen-r-b28336212/)
 [<img src="github.jfif" width="40" height="40">](https://github.com/naveenr1099)
